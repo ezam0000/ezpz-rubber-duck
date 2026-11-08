@@ -1,5 +1,9 @@
 # EZPZ Rubber duck
 
+[![A 3D yellow rubber duck bobbing on water with responsive ripples](docs/duck-preview.gif)](https://21st.dev/@ezam0000/components/ezpz-rubber-duck)
+
+[Try the live demo](https://21st.dev/@ezam0000/components/ezpz-rubber-duck)
+
 A standalone 3D rubber toy on responsive water. Hold the duck to compress it, drag to move it, and release to let it recover and bob. Touch the water to create ripples. There are no visible controls or words.
 
 ## Customize
